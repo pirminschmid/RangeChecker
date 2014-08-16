@@ -89,5 +89,5 @@ References
 
 [home]:http://www.pirmin-schmid.ch
 [license]:https://github.com/pirminschmid/RangeChecker/tree/master/LICENSE
-[rc_screenshot]:https://github.com/pirminschmid/RangeChecker/tree/master/rc_screenshot.png
-[rc_example_xls]:https://github.com/pirminschmid/RangeChecker/tree/master/rc_example.xls
+[rc_screenshot]:rc_screenshot.png
+[rc_example_xls]:rc_example.xls
