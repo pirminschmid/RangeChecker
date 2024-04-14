@@ -83,9 +83,9 @@ Copyright (c) 2005-2014 Pirmin Schmid, [MIT license][license].
 References
 ----------
 
-1.	 Rosendaal FR, Cannegieter SC, van der Meer FJ, Bri�t E. A method to determine the optimal intensity of oral anticoagulant therapy. Thrombosis and haemostasis 1993;69(3):236�239
-2.	Fritschi J, Raddatz-M�ller P, Schmid P, Wuillemin WA. Patient self-management of long-term oral anticoagulation in Switzerland. Swiss Med Wkly 2007;137(17-18):252-8
-3.	Nagler M, Bachmann LM, Schmid P, Raddatz-M�ller P, Wuillemin WA. Patient self-management of oral anticoagulation with vitamin K antagonists in everyday practice: efficacy and safety in a nationwide long-term prospective cohort study. PLOS ONE 2014;9(4):e95761
+1.	Rosendaal FR, Cannegieter SC, van der Meer FJ, Briët E. A method to determine the optimal intensity of oral anticoagulant therapy. Thrombosis and haemostasis 1993;69(3):236-9
+2.	Fritschi J, Raddatz-Müller P, Schmid P, Wuillemin WA. Patient self-management of long-term oral anticoagulation in Switzerland. Swiss Med Wkly 2007;137(17-18):252-8
+3.	Nagler M, Bachmann LM, Schmid P, Raddatz-Müller P, Wuillemin WA. Patient self-management of oral anticoagulation with vitamin K antagonists in everyday practice: efficacy and safety in a nationwide long-term prospective cohort study. PLOS ONE 2014;9(4):e95761
 
 [home]:http://www.pirmin-schmid.ch
 [license]:https://github.com/pirminschmid/RangeChecker/tree/main/LICENSE
